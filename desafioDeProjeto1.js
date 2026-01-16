@@ -1,5 +1,5 @@
 let nome = 'fulano';
-let exp = 9500.00;
+let exp = 900.00;
 let lvl = " "
 
 if (exp < 1000.00) {
@@ -29,7 +29,7 @@ else if (exp >= 9001.00 && exp < 10000.00) {
 	lvl = "Imortal"
 }
 
-else if (exp >= 10000.00) {
+else {
 	lvl = "Radiante"
 }
 
